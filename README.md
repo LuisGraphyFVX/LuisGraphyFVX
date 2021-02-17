@@ -7,12 +7,10 @@
 <h4>:cyclone: Some more things about me...</h4>
 
 ```csharp
-List<string, string> Biitez = new List<string, string>()
+ValueTuple<string, string> Biitez = new ValueTuple<string, string>()
 {
-  { "Knowledge", "C#, VB.NET, Web Developer (PHP)" },
-  { "Projects", "ByteChecker, Authenty.ME, Akiza.IO" },
-  { "Tools", "Visual Studio, JetBrains Rider, GitHub" },
-  { "OS", "Windows 10" }
+  { "Knowledge", "C# - VB.NET - Python - HTML" },
+  { "Projects", "Neon Studios - Kylx - Bestify" },
 };
 ```
 
