@@ -4,10 +4,10 @@
 
 <br>
 
-<h4>:cyclone: Some more things about me...</h4>
+<h4>:book: Some more things about me...</h4>
 
 ```csharp
-ValueTuple<string, string> Biitez = new ValueTuple<string, string>()
+ValueTuple<string, string> About = new ValueTuple<string, string>()
 {
   { "Knowledge", "C# - VB.NET - Python - HTML" },
   { "Projects", "Neon Studios - Kylx - Bestify" },
