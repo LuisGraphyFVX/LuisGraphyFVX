@@ -1,10 +1,10 @@
-<h2 align="center">Hi, I'm LuisGraphyFVX 🤓</h2>
+<h2 align="center">Hi, I'm LuisGraphyFVX 👽</h2>
 
-<h4 align="center">I am a 17-year-old self-taught developer, addicted to <s>coffee</s> at night and watching netflix by day :cookie:</h4>
+<h4 align="center">I am a normal person who at the age of 10 was interested in being a developer, I like video games 🎮 and trying new things.</h4>
 
 <br>
 
-<h4>:book: Some more things about me...</h4>
+<h4>:book: Programming languages and projects.</h4>
 
 ```csharp
 ValueTuple<string, string> About = new ValueTuple<string, string>()
