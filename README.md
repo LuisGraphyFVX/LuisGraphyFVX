@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm LuisGraphyFVX 👽</h2>
 
-<h4 align="center">I am a normal person who at the age of 10 was interested in being a developer, I like video games :gamepad: and trying new things.</h4>
+<h4 align="center">I am a normal person who at the age of 10 was interested in being a developer, I like video games :Gamepad: and trying new things.</h4>
 
 <br>
 
