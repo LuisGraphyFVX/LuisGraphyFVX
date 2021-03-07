@@ -13,7 +13,7 @@
 ```console
 KeyValuePair<string, string> About = new KeyValuePair<string, string>()
 {
-  { "Knowledge", "C# - VB.NET - Python - HTML" },
+  { "Knowledge", "C# - VB.NET - Python - PHP" },
   { "Projects", "Neon Studios - Kylx - Bestify" },
 };
 ```
