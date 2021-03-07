@@ -7,7 +7,7 @@
 <h4>:book: Programming languages and projects.</h4>
 
 ```console
-ValueTuple<string, string> About = new ValueTuple<string, string>()
+KeyValuePair<string, string> About = new KeyValuePair<string, string>()
 {
   { "Knowledge", "C# - VB.NET - Python - HTML" },
   { "Projects", "Neon Studios - Kylx - Bestify" },
