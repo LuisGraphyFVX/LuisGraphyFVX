@@ -19,6 +19,7 @@ ValueTuple<string, string> About = new ValueTuple<string, string>()
 
 ![LuisGraphyFVX's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGraphyFVX&layout=compact&theme=tokyonight) 
 
+![LuisGraphyFVX's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGraphyFVX&layout=compact&theme=tokyonight)
 
 <!--<h2 align="center">Contact :speech_balloon:</h2>-->
 
