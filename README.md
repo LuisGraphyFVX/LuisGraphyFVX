@@ -1,4 +1,8 @@
-<h2>Hi, I'm LuisGraphyFVX 👽</h2>
+<p align="center">
+<img width="150px" src="https://i.imgur.com/v0OBTA1.jpg" align="center" alt="GitHub Readme Stats" />
+</p>
+
+<h2 align="center">Hi, I'm LuisGraphyFVX 👽</h2>
 
 <h4>I am a normal person who at the age of 10 was interested in being a developer, I like video games 🎮 and trying new things.</h4>
 
