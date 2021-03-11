@@ -10,11 +10,11 @@
 
 <h4>:book: Programming languages and projects.</h4>
 
-```console
-KeyValuePair<string, string> About = new KeyValuePair<string, string>()
-{
-  { "Knowledge", "C# - VB.NET - Python - PHP" },
-  { "Projects", "Neon Studios - Kylx - Bestify" },
+```csharp
+string[] XenocodeRCE = new string[] 
+{ 
+  "Knowledge: C# - VB.NET - Python - PHP",
+  "Projects", "Neon Studios - Kylx - Bestify"
 };
 ```
 
