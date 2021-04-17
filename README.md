@@ -8,28 +8,32 @@
 
 <br>
 
-<h4>:book: Programming languages and projects.</h4>
+### :book: Programming languages and projects.
 
 ```csharp
 string[] LuisGraphyFVX = new string[] 
 { 
   "Knowledge: C# - VB.NET - Python - PHP",
-  "Projects", "Neon Studios - Kylx - Bestify"
+  "Projects: "Neon Studios - Kylx - Bestify"
 };
 ```
+---
 
-
-<h2>Statistics</h2>
+### Statistics
 
 ![LuisGraphyFVX's github stats](https://github-readme-stats.vercel.app/api?username=LuisGraphyFVX&show_icons=true&theme=tokyonight) 
 
 ![LuisGraphyFVX's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGraphyFVX&layout=compact&theme=tokyonight)
 
-<h2>Repositories Top</h2>
+---
+
+### Repositories Top
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisGraphyFVX&repo=Covid-19-Tracker&theme=tokyonight)](https://github.com/LuisGraphyFVX/Covid-19-Tracker)
 
-<h2>Contact :speech_balloon:</h2>
+---
+
+### Contact :speech_balloon:
 
 <p>
   
