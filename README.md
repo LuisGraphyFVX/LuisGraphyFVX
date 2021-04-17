@@ -14,7 +14,7 @@
 string[] LuisGraphyFVX = new string[] 
 { 
   "Knowledge: C# - VB.NET - Python - PHP",
-  "Projects: "Neon Studios - Kylx - Bestify"
+  "Projects: Neon Studios - Kylx - Bestify"
 };
 ```
 ---
